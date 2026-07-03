@@ -1,0 +1,12 @@
+Es importante que las plataformas tecnológicas reciban los reportes
+o la información de los ciudadanos de forma estructurada porque 
+facilita la organización y el procesamiento de los datos. Cuando 
+la información tiene un formato definido, es más fácil 
+almacenarla, buscarla y analizarla. Además, se reducen los 
+errores al momento de interpretar los datos y se mejora la 
+comunicación entre los ciudadanos y las entidades responsables. 
+Esto permite responder con mayor rapidez a las solicitudes, generar
+estadísticas confiables y tomar mejores decisiones. En plataformas
+participativas, una información bien estructurada también aumenta 
+la transparencia, la eficiencia y la calidad de los servicios que 
+se ofrecen a la comunidad.
